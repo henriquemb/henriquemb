@@ -31,4 +31,4 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por desenvolvimento de softwar
 
 ## ⏱️ Estatísticas do WakaTime
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=henriquemb)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=henriquemb)](https://wakatime.com/@henriquemb)
